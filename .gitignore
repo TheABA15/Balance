@@ -1,0 +1,10 @@
+# Copias e informes personales generados por la aplicación
+balance-copia-*.json
+balance-*-notion.md
+balance-*.csv
+
+# Archivos locales
+.DS_Store
+Thumbs.db
+.env
+.env.*
